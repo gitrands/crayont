@@ -1,0 +1,112 @@
+.my-text {
+    color:#F5F5F566;
+    font-size: 354.22px;
+    line-height: 428.69px;
+    font-weight: 600;
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  .my-div {
+    width: 1440;
+    height: 710px;
+    background-color: #042341;
+    ;
+  }  
+
+  .my-element {
+    width: 581px;
+    height: 192px;
+    padding-top: 96px;
+   padding-left: 102px;
+ 
+
+    
+  }
+  
+.losf{
+    font-size: 40px;
+  line-height: 58.09px;
+  font-weight: 600;
+  padding-right: 10px;
+  color: #eaf2ef;
+  ;
+}    
+.los{
+      font-size: 40px;
+    line-height: 58.09px;
+    font-weight: 600;
+    color: #5BD6A5;
+    ;
+}  
+.lost{
+    display: flex;
+  flex-direction: row;
+  
+}
+.small{
+    padding-top: 24px;
+}
+.aa{
+     gap: 32px;
+}
+.butt-1{
+    width: 137px;
+    height: 56px;
+    border-radius: 12px;
+    background-color: #0932D8;
+    color: #dce0ef;
+    font-size: 16px;
+    line-height: 19.36px;
+   
+
+}
+.butt-2{
+    width: 137px;
+    height: 56px;
+    border-radius: 12px;
+    background-color: #dce5ee;
+    color: #000000;
+    font-size: 16px;
+    line-height: 19.36px;
+}
+.aa{
+    display: flex;
+  flex-direction: row;
+    padding-top: 32px;
+}
+
+.ion{
+    width: 254px;
+    height: 50px;
+    padding-top: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cop{
+    padding-top: 32px;
+
+}
+.rod{
+    padding-top: 69px;
+}
+
+.tem{
+    padding-right: 0px;
+}
+
+.g{
+    color: #5BD6A5;
+}
+
+.side{
+    width: 402px;
+    height: 152px;
+   
+  padding-left: 700px;
+}
+.vop{
+     display: flex;
+  flex-direction: row;
+}
